@@ -1,0 +1,5 @@
+24
+False
+The latest game is: Diablo III
+5
+The line number of the game is: 4
