@@ -1,5 +1,11 @@
 24
-False
-The latest game is: Diablo III
+True
+Diablo III
 5
-The line number of the game is: 4
+1
+Minecraft
+187.16
+7.798333333333333
+52
+2003
+['Minecraft', '23', '2009', 'Survival game', 'Microsoft']
